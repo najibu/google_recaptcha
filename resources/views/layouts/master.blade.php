@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Google Recaptcha</title>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="{{elixir('css/app.css')}}">
 <script src='https://www.google.com/recaptcha/api.js'></script>
 </head>
 <body>
